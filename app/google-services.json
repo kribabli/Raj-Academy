@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "226777925164",
+    "project_id": "rajacademy-a22ae",
+    "storage_bucket": "rajacademy-a22ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226777925164:android:17083e920ff420e7743389",
+        "android_client_info": {
+          "package_name": "com.abbbs.rajacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226777925164-re83m53fn44g1cri9sp9u738efof8l8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abbbs.rajacademy",
+            "certificate_hash": "90084f601fcb87e241effbbca19a36b5cef065bc"
+          }
+        },
+        {
+          "client_id": "226777925164-fpak129gg6740r53bbd62i7rl45vij9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTugDkN1t3BxSOSsnZ44H8kBL2JAgUBzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226777925164-fpak129gg6740r53bbd62i7rl45vij9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
